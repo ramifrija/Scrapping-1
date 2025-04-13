@@ -18,7 +18,7 @@ Ce projet est une solution de scraping permettant d'extraire les annonces immobi
 ## Installation
 1. **Cloner le dépôt** :
    
-   git clone https://github.com/ramifrija/projet-scraping-tunisie
+   git clone https://github.com/ramifrija/Scrapping-1
    cd projet-scraping-tunisie
 
 ## Dependencies
